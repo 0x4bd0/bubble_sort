@@ -25,6 +25,8 @@ return list
 }
 
 func main(){
+
+	fmt.Println("Bubble sort :")
 	
 	 list1 := []int32{2,5,1,9,3,7,8,6,4,}
 	 list2 := []float32{0.5,0.3,0.1,0.9,0.7,0.8,0.6,0.4,0.2, 1.0,}
